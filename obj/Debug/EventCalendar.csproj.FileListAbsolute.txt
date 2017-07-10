@@ -1,0 +1,6 @@
+C:\Users\Cuyler\documents\visual studio 2013\Projects\EventCalendar\EventCalendar\bin\EventCalendar.dll.config
+C:\Users\Cuyler\documents\visual studio 2013\Projects\EventCalendar\EventCalendar\bin\EventCalendar.dll
+C:\Users\Cuyler\documents\visual studio 2013\Projects\EventCalendar\EventCalendar\bin\EventCalendar.pdb
+C:\Users\Cuyler\documents\visual studio 2013\Projects\EventCalendar\EventCalendar\obj\Debug\EventCalendar.dll
+C:\Users\Cuyler\documents\visual studio 2013\Projects\EventCalendar\EventCalendar\obj\Debug\EventCalendar.pdb
+C:\Users\Cuyler\documents\visual studio 2013\Projects\EventCalendar\EventCalendar\obj\Debug\EventCalendar.csprojResolveAssemblyReference.cache
